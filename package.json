@@ -1,0 +1,21 @@
+{
+  "name": "arith_reactjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chintagirijanagasri-blip/arith_reactjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/chintagirijanagasri-blip/arith_reactjs/issues"
+  },
+  "homepage": "https://github.com/chintagirijanagasri-blip/arith_reactjs#readme"
+}
